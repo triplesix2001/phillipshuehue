@@ -1,0 +1,722 @@
+('C:\\Users\\Preben Bargum\\Documents\\programmering\\Phillips '
+ 'HUE\\build\\AvPaa\\PYZ-00.pyz',
+ [('inspect',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\typing.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\random.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\copy.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\struct.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ast.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.assets',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\charset_normalizer\\assets\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\Users\\Preben '
+   'Bargum\\Documents\\Programmering\\Webside\\.venv\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Preben '
+   'Bargum\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\constants.py',
+   'PYMODULE')])
